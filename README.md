@@ -1,3 +1,3 @@
-# PCX Helper File
+# PCX Helper Files & Libraries
 
-Helper file for SharePoint projects
+JavaScript helper files & Libraries for SharePoint projects
